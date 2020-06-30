@@ -16,9 +16,6 @@
 # or try: pip install -r requirements.txt
 pip install paddlepaddle==1.6.3
 pip install parl==1.3.1
-pip install gym
-pip install atari-py
-pip install rlschool==0.3.1
 ```
 
 ## 训练策略（strategy）
