@@ -6,9 +6,9 @@
 
 - AI Studio昵称：star2dust
 - 环境星级：一星
-- 环境名称：Paddle
+- 环境名称：Orbit
 - Github链接：https://github.com/star2dust/paddle-ball
-- 展示效果图
+- 展示效果图：https://github.com/star2dust/paddle-ball/blob/master/result/test_2.gif
 
 ## 安装依赖项（requirements）
 
